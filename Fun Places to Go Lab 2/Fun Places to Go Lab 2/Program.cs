@@ -19,7 +19,7 @@ namespace Fun_Places_to_Go_Lab_2
             String action = "Okay, if you're in the mood for some sweet sweet ";
             String chill = "Okay, when the mood is just right for some ";
             String danger = "Okay, it would seem you're in the mood for some ";
-            String goodFood = "Okay if you're in the mood for some suculent ";
+            String goodFood = "Okay if you're in the mood for some succulent ";
 
             String error = "Ah Ah Ah! You didn't say the magic word! \nPlease enter a valid selection: ";
 
