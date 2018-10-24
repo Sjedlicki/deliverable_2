@@ -5,3 +5,10 @@ X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to G
 X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.csproj.CoreCompileInputs.cache
 X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.exe
 X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.pdb
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.exe.config
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.exe
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.pdb
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.csprojAssemblyReference.cache
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.csproj.CoreCompileInputs.cache
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.exe
+C:\git\deliverable_2\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.pdb

@@ -27,13 +27,6 @@ namespace Fun_Places_to_Go_Lab_2
             int peeps = 0;
             bool chk = false;
 
-            // Trying to add this list to reference in the output of transportation to the user. DON'T KNOW HOW TO USE THIS
-            /*List<string> trans = new List<string>();
-            trans.Add("your sneakers");
-            trans.Add("a sedan");
-            trans.Add("a Volkswagen bus");
-            trans.Add("an airplane");*/
-
             // LOOPING PROGRAM UNTIL PROMPTED BY USER TO EXIT
             bool repeat = true;            
             while (repeat)
@@ -53,8 +46,6 @@ namespace Fun_Places_to_Go_Lab_2
 
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.Write("Please select your adventure: ");
-                //fun = int.Parse(Console.ReadLine());
-                //fun = Convert.ToInt32(Console.ReadLine());
                 chk = Int32.TryParse(Console.ReadLine(), out fun);
 
                 while (fun < 1 || fun > 4)
@@ -64,10 +55,8 @@ namespace Fun_Places_to_Go_Lab_2
                     //fun = int.Parse(Console.ReadLine());
                     chk = Int32.TryParse(Console.ReadLine(), out fun);
                 } 
-                    
+                
                 Console.Write(participants);
-
-                //peeps = int.Parse(Console.ReadLine());
                 chk = Int32.TryParse(Console.ReadLine(), out peeps);
 
                 Console.WriteLine(); // ADD EMPTY LINE FOR FORMATTING
@@ -82,7 +71,6 @@ namespace Fun_Places_to_Go_Lab_2
                     Console.ForegroundColor = ConsoleColor.White;
                     //peeps = int.Parse(Console.ReadLine());
                     chk = Int32.TryParse(Console.ReadLine(), out peeps);
-
                 }
 
                 Console.ForegroundColor = ConsoleColor.Yellow; // ADD COLOR TO OUTPUT USER RESULTS
