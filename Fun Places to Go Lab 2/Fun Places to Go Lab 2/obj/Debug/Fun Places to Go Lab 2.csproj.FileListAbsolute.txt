@@ -1,0 +1,7 @@
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.exe.config
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.exe
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\bin\Debug\Fun Places to Go Lab 2.pdb
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.csprojAssemblyReference.cache
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.csproj.CoreCompileInputs.cache
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.exe
+X:\Stevo\Documents\Visual Studio Projects\Fun Places to Go Lab 2\Fun Places to Go Lab 2\obj\Debug\Fun Places to Go Lab 2.pdb
